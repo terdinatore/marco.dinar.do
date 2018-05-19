@@ -1,5 +1,5 @@
 theme = "hugo-now-ui"
-baseurl = "marco.dinar.do"
+baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
 title = "Marco Di Nardo"
