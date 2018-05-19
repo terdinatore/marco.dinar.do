@@ -71,7 +71,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [params]
     background = "/img/bg11.jpg"
-    tint = "orange"
+    tint = "grey"
     custom_css = ["css/highlight.min.css"]
     custom_js = []
     date_format = "Mon, Jan 2, 2006"
