@@ -1,13 +1,13 @@
 theme = "hugo-now-ui"
-baseurl = "/"
+baseurl = "marco.dinar.do"
 relativeurls = true
 languageCode = "en-us"
-title = "Now UI Kit"
+title = "Marco Di Nardo"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 #enableGitInfo = true
-publishDir = "../docs"
+#publishDir = "public"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
