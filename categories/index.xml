@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Marco Di Nardo</title>
-    <link>marco.dinar.do/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Marco Di Nardo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="marco.dinar.do/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>marco.dinar.do/categories/hugo/</link>
+      <link>/categories/hugo/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>marco.dinar.do/categories/hugo/</guid>
+      <guid>/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>marco.dinar.do/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>marco.dinar.do/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
