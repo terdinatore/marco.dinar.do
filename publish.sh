@@ -2,9 +2,7 @@
 
 #!/bin/sh
 
-DIR=$(dirname "$0")
-
-cd $DIR/..
+cd ~/Projects/websites/marco.dinar.do
 
 if [[ $(git status -s) ]]
 then
