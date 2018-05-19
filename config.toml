@@ -22,11 +22,11 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "/landing"
     pre = "<i class='now-ui-icons business_bank'></i>"
     weight = 1
-[[menu.main]]
-    name = "Profile"
-    url = "/profile"
-    pre = "<i class='now-ui-icons users_single-02'></i>"
-    weight = 2
+#[[menu.main]]
+#    name = "Profile"
+#    url = "/profile"
+#    pre = "<i class='now-ui-icons users_single-02'></i>"
+#    weight = 2
 [[menu.main]]
     name = "Signup"
     pre = "<i class='now-ui-icons clothes_tie-bow'></i>"
