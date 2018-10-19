@@ -13,15 +13,16 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
+    name = "Posts"
+    pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
+    url = "/post"
+    weight = 1
+[[menu.main]]
     name = "Components"
     url = "/components"
     pre = "<i class='now-ui-icons design_app'></i>"
-    weight = 1
-[[menu.main]]
-    name = "Landing"
-    url = "/landing"
-    pre = "<i class='now-ui-icons business_bank'></i>"
-    weight = 1
+    weight = 2
+
 #[[menu.main]]
 #    name = "Profile"
 #    url = "/profile"
@@ -39,23 +40,23 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     weight = 4
     identifier = "dropdown"
 [[menu.main]]
-    name = "Template"
-    pre = "<i class='now-ui-icons files_paper'></i>"
-    url = "/template"
+    name = "Landing"
+    url = "/landing"
+    pre = "<i class='now-ui-icons business_bank'></i>"
     weight = 1
     parent = "dropdown"
 [[menu.main]]
-    name = "Posts"
-    pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
-    url = "/post"
+    name = "Template"
+    pre = "<i class='now-ui-icons files_paper'></i>"
+    url = "/template"
     weight = 2
     parent = "dropdown"
-[[menu.main]]
-    name = "Tags"
-    pre = "<i class='now-ui-icons shopping_tag-content'></i>"
-    url = "/tags"
-    weight = 2
-    parent = "dropdown"    
+#[[menu.main]]
+#    name = "Tags"
+#    pre = "<i class='now-ui-icons shopping_tag-content'></i>"
+#    url = "/tags"
+#    weight = 3
+#    parent = "dropdown"    
     
 [[menu.footer]]
     identifier = "twitter"
