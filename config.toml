@@ -1,4 +1,4 @@
-#theme = "hugo-now-ui"
+theme = "hugo-now-ui"
 baseurl = "/"
 relativeurls = true
 languageCode = "en-uk"
